@@ -1,0 +1,15 @@
+body{
+    background-color: black;
+    background-image: url(https://www.uokpl.rs/fpng/f/405-4053663_a-perfect-circle.png);
+    background-position: top;
+    background-size: 50rem 25rem;
+    background-repeat: no-repeat;
+}
+
+
+#spotify{
+    width: 100%;
+    height: 500px;
+    margin-top: 25rem;
+    border: 5px solid #cd352c;
+}
