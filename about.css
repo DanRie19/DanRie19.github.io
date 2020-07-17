@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Nanum+Gothic:wght@400;700;800&display=swap');
+
+
+body{
+    background-color: black;
+    font-family: 'Nanum Gothic', sans-serif;
+    line-height: 2rem;
+    background-image: url(https://www.uokpl.rs/fpng/f/405-4053663_a-perfect-circle.png);
+    background-position: top;
+    background-repeat: no-repeat;
+    background-size: 70rem 30rem;
+    
+
+}
+#text{
+    
+    color: white;
+    font-size: 1.5rem;
+    text-align: justify;
+    margin: auto;
+    padding-left: 3rem;
+    padding-right: 3rem;
+    margin-top: 30rem;
+    text-indent: 1rem;
+}
