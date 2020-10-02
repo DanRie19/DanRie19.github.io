@@ -4,7 +4,7 @@ body {
     background-color: black;
     margin-left: 2rem;
     margin-right: 2rem;
-    padding: 0;
+    padding: 0; 
     overflow: scroll;
 }
 
@@ -267,6 +267,11 @@ body {
     padding-left: 3rem;
     list-style: none;
      
+  }
+  
+  #matt img{
+      width: 40%;
+
   }
   
   #matt img{
